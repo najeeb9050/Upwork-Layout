@@ -1,0 +1,26 @@
+.navbar{
+    display: flex;
+    padding: 20px;    
+    justify-content: space-between;
+    border: 2px solid red;
+}
+
+.navbar .leftside{
+    align-items: center;
+    display: flex;
+    border: 2px solid green;
+}
+.navbar .rightside{
+    display: flex;
+    border: 2px solid blue;
+}
+.navbar .midside{
+    cursor: pointer;
+    border-radius: 150px;
+    border: 2px solid yellow;
+    background-color: gray;
+
+}
+.img{
+    width: 90px ;
+}
